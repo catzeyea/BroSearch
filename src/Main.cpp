@@ -1,8 +1,12 @@
-#include "openai.hpp"
+#include <QApplication>
+#include <QWidget>
 #include <iostream>
-//#include <cpr/cpr.h>
-int main() {
-    //openai::start();
-    std::cout << "Hello World!" << std::endl;
-    return 0;
+#include "MainWindow.hpp"
+int main(int argc, char *argv[]) {
+    QApplication a(argc, argv); // Startet die Qt-Anwendung
+    
+    MyWindow w; // Erstellt dein Hauptfenster
+    w.show();   // Zeigt das Fenster an
+    
+    return a.exec(); // Startet die Event-Schleife (hält das Programm am Laufen)
 }

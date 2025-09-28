@@ -2,5 +2,8 @@
     "cmake.sourceDirectory": "${workspaceFolder}",
     "cmake.buildDirectory": "${workspaceFolder}/build",
     "cmake.generator": "Ninja",
-    "cmake.configureOnOpen": true
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "qapplication": "cpp"
+    }
 }

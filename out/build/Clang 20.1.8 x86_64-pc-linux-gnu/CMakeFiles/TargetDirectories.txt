@@ -1,3 +1,0 @@
-/home/hosenbendiger/vscode-projekte/SearchBro/out/build/Clang 20.1.8 x86_64-pc-linux-gnu/CMakeFiles/SearchBro.dir
-/home/hosenbendiger/vscode-projekte/SearchBro/out/build/Clang 20.1.8 x86_64-pc-linux-gnu/CMakeFiles/edit_cache.dir
-/home/hosenbendiger/vscode-projekte/SearchBro/out/build/Clang 20.1.8 x86_64-pc-linux-gnu/CMakeFiles/rebuild_cache.dir
