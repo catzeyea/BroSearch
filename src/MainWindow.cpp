@@ -46,4 +46,4 @@ void MyWindow::processInput() {
     inputField->clear(); 
 }
 
-MyWindow::~MyWindow() {} // Standard-Destruktor
+MyWindow::~MyWindow() {} // Standad-Destruktor
