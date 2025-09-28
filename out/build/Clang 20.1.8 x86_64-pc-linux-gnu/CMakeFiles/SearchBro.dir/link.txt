@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -Xlinker --dependency-file=CMakeFiles/SearchBro.dir/link.d CMakeFiles/SearchBro.dir/src/Main.cpp.o -o SearchBro
